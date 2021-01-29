@@ -1,3 +1,4 @@
 {
-  "stripe-card:CVC": "testing"
+  "stripe-card:CVC": "testing",
+  "stripe-card:cardNumber": "number"
 }
